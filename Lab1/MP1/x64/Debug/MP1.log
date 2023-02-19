@@ -1,6 +1,0 @@
-﻿  pch.cpp
-  Auxil.cpp
-  MP1.cpp
-D:\мат прога\Lab1\MP1\MP1.cpp(24,30): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-  Создание кода...
-  MP1.vcxproj -> D:\мат прога\Lab1\x64\Debug\MP1.exe
