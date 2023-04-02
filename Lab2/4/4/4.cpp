@@ -21,7 +21,6 @@ int _tmain(int argc, _TCHAR* argv[])
 		  cout << AA[i] << ((i< N-1)?", ":" ");  
 		  cout << "}" << endl;
 		  cout << endl << "Generation of placements iz  " << N << " po " << M << ":";
-
 	 combi::accomodation s(N,M);
 
 	 int  n = s.getfirst();      

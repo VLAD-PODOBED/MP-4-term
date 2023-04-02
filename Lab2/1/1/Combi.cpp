@@ -18,7 +18,7 @@ namespace combi
 	}; 
 
 	short subset::getfirst()		///сформ массив индексов по бит маске
-	  {
+	  {	
 		__int64 buf = this->mask; 
 		this->sn = 0;
 		for (short i = 0; i < n; i++)

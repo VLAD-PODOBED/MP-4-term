@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17134.0
-Debug|Win32|D:\2 УЧЕБА\мат. прога\Лаб2\1\|
+PlatformToolSet=v143:VCToolArchitecture=Native32Bit:VCToolsVersion=14.34.31933:TargetPlatformVersion=10.0.22000.0:
+Debug|Win32|D:\мат прога\Lab2\1\|
